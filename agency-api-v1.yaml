@@ -778,6 +778,7 @@ components:
           enum:
             - medical
             - student
+            - other
         interest_bearing:
           type: boolean
         convenience_fee:
